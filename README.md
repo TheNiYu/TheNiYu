@@ -53,5 +53,5 @@ No hype. No sugar. Just Me, NiYu.
 
 | Tool         | Description                                           |
 |--------------|-------------------------------------------------------|
-| [Gigi Countdown](https://github.com/TheNiYu/Gigi-Countdown) | Glitch countdown to 21 September + ASCII Gigi. |
+| [Gigi Countdown](https://github.com/TheNiYu/Gigi_Countdown) | Glitch countdown to 21 September + ASCII Gigi. |
 | [Wakey Tool](https://github.com/TheNiYu/Wakey-Tool) | Keep your PC awake and your socials "green". |
