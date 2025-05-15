@@ -40,7 +40,11 @@ No hype. No sugar. Just Me, NiYu.
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=TheNiYu&color=e67e22&style=flat-square)
+
 ![Made by NiYu](https://img.shields.io/badge/Made%20by-NiYu-2f2f2f?style=flat-square&labelColor=2f2f2f&color=b34700&logoColor=white&logo=)
+
+![NiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNiYu&show_icons=true&theme=tokyonight&icon_color=e67e22&hide_title=true)
 
 ---
 
