@@ -14,6 +14,10 @@ No hype. No sugar. Just Me, NiYu.
 
 ---
 
+![Made by NiYu](https://img.shields.io/badge/Made%20by-TheNiYu-blueviolet?style=flat-square)
+
+---
+
 ## 🛠️ Projects
 
 | Tool         | Description                                           |
