@@ -14,7 +14,7 @@ No hype. No sugar. Just Me, NiYu.
 
 ---
 
-![Made by NiYu](https://img.shields.io/badge/Made%20by--NiYu-white?style=flat-square&labelColor=2f2f2f&color=e67e22)
+![Made by NiYu](https://img.shields.io/badge/Made%20by--%232f2f2f?style=flat-square&logoColor=white&labelColor=2f2f2f&color=e67e22&label=Made%20by&message=NiYu)
 
 ---
 
