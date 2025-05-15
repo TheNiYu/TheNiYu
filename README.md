@@ -18,7 +18,7 @@ No hype. No sugar. Just Me, NiYu.
 
 [![Email](https://img.shields.io/badge/-theniyu%40gmail.com-2f2f2f?style=flat-square&logo=protonmail&logoColor=e67e22&labelColor=2f2f2f)](mailto:theniyu@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-2f2f2f?style=flat-square&logo=github&logoColor=e67e22)](https://github.com/TheNiYu)
-[![Twitter](https://img.shields.io/badge/-Twitter-2f2f2f?style=flat-square&logo=twitter&logoColor=e67e22)](https://twitter.com/1pixeldot)
+[![Twitter URL](https://img.shields.io/badge/-Twitter-2f2f2f?style=flat-square&logo=twitter&logoColor=e67e22)](https://twitter.com/1pixeldot)
 [![Twitch](https://img.shields.io/badge/-Twitch-2f2f2f?style=flat-square&logo=twitch&logoColor=e67e22)](https://twitch.tv/theniyu)
 
 ---
