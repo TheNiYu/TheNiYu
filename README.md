@@ -14,6 +14,32 @@ No hype. No sugar. Just Me, NiYu.
 
 ---
 
+### 📬 Contact & Presence
+
+[![Email](https://img.shields.io/badge/-theniyu%40protonmail.com-2f2f2f?style=flat-square&logo=protonmail&logoColor=e67e22&labelColor=2f2f2f)](mailto:theniyu@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-2f2f2f?style=flat-square&logo=github&logoColor=e67e22)](https://github.com/TheNiYu)
+[![Twitter](https://img.shields.io/badge/-Twitter-2f2f2f?style=flat-square&logo=twitter&logoColor=e67e22)](https://twitter.com/1pixeldot)
+[![Twitch](https://img.shields.io/badge/-Twitch-2f2f2f?style=flat-square&logo=twitch&logoColor=e67e22)](https://twitch.tv/theniyu)
+
+---
+
+### ⚙️ Tools I like
+
+![Python](https://img.shields.io/badge/-Python-2f2f2f?style=flat-square&logo=python&logoColor=e67e22)
+![Tkinter](https://img.shields.io/badge/-Tkinter-2f2f2f?style=flat-square&logo=windowsterminal&logoColor=e67e22)
+![pyautogui](https://img.shields.io/badge/-pyautogui-2f2f2f?style=flat-square&logo=mousepointer&logoColor=e67e22)
+![Terminal Hacks](https://img.shields.io/badge/-Terminal%20Hacks-2f2f2f?style=flat-square&logo=windows-terminal&logoColor=e67e22)
+
+---
+
+### 🧠 Interests
+
+![Creative Automation](https://img.shields.io/badge/-Creative%20Automation-2f2f2f?style=flat-square&logo=zapier&logoColor=e67e22)
+![Anti-Idle Tools](https://img.shields.io/badge/-Anti--Idle%20Tools-2f2f2f?style=flat-square&logo=speedtest&logoColor=e67e22)
+![Poetic Code](https://img.shields.io/badge/-Poetic%20Code-2f2f2f?style=flat-square&logo=openai&logoColor=e67e22)
+
+---
+
 ![Made by NiYu](https://img.shields.io/badge/Made%20by-NiYu-2f2f2f?style=flat-square&labelColor=2f2f2f&color=b34700&logoColor=white&logo=)
 
 ---
