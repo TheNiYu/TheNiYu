@@ -47,7 +47,8 @@ No hype. No sugar. Just Me, NiYu.
 ![NiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNiYu&show_icons=true&theme=tokyonight&icon_color=e67e22&hide_title=true)
 
 ---
-
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+---
 ## 🛠️ Projects
 
 | Tool         | Description                                           |
