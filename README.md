@@ -8,7 +8,7 @@ I'm not trying to be seen. I'm trying to be real.
 
 I believe in tools that serve people, not trends.  
 I believe in naming things with care.  
-And I believe that even a fragile presence can leave a lasting impact — if it's honest.
+And I believe that even a fragile presence can leave a lasting impact... If it's honest.
 
 No hype. No sugar. Just Me, NiYu.
 
