@@ -55,3 +55,4 @@ No hype. No sugar. Just Me, NiYu.
 |--------------|-------------------------------------------------------|
 | [Gigi Countdown](https://github.com/TheNiYu/Gigi_Countdown) | Glitch countdown to 21 September + ASCII Gigi. |
 | [Wakey Tool](https://github.com/TheNiYu/Wakey-Tool) | Keep your PC awake and your socials "green". |
+| [Video Transcriber](https://github.com/TheNiYu/Video-Transcriber) | Simple video/audio transcription tool powered by Whisper. |
